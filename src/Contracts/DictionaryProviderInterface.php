@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Marussia\i18n\Contracts;
+namespace Marussia\I18n\Contracts;
 
 interface DictionaryProviderInterface
 {

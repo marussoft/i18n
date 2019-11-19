@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Marussia\i18n;
+namespace Marussia\I18n;
 
-use Marussia\i18n\Contracts\DictionaryProviderInterface;
+use Marussia\I18n\Contracts\DictionaryProviderInterface;
 
 class DictionaryProvider implements DictionaryProviderInterface
 {

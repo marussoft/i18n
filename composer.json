@@ -20,7 +20,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Marussia\\i18n\\": "src/"
+            "Marussia\\I18n\\": "src/"
         }
     }
 }
