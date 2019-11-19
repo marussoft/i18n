@@ -1,0 +1,26 @@
+{
+    "name": "marussia/i18n",
+    "description": "Provide translations for your application",
+    "license": "MIT",
+    "keywords": [
+        "i18n"
+    ],
+    "authors": [
+        {
+            "name": "Mikhail Ilinsky",
+            "email": "mail@milinsky.ru"
+        }
+    ],
+    "support": {
+        "docs": "https://docs.marussia.org/i18n/"
+    },
+    "require": {
+        "php": "^7.0"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Marussia\\i18n\\": "src/"
+        }
+    }
+}
